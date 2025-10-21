@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd-number{
+    background-color: rgb(245, 123, 141);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#not-oddNumber{
+    color: blue;
+    font-size: 36px;
+}
+
+.odd-number.bigger-one {
+    font-size: 24px;
+}
+
+#anotherIDnumber{
+    background-color: rgb(142, 211, 136);
+    font-size: 24px;
+    font-weight: bold;
+}
